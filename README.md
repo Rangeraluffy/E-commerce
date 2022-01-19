@@ -15,3 +15,4 @@ To get the Node server running locally:
 - [expressjs](https://github.com/expressjs/express) - The server for handling and routing HTTP requests.
 - [mongoose](https://github.com/Automattic/mongoose) - For modeling and mapping MongoDB data to javascript.
 - [nodeJs](https://github.com/nodejs/node) - Node.js is an open-source, cross-platform, JavaScript runtime environment.
+- [cryptoJs](https://github.com/brix/crypto-js) - JavaScript implementations of standard and secure cryptographic algorithms for my password.
